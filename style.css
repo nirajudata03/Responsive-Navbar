@@ -26,8 +26,6 @@ header {
   background: black;
   height: 8vh;
   margin-top: 5vh;   /* We can scroll down "navBar" according to our requirement. */
-  /* margin-left: 1em;    Optional. */
-  /* margin-right: 1em;   /* Optional. */
 }
 .navBar {
   display: flex;
