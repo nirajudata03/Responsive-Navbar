@@ -59,13 +59,13 @@ header {
     top: 13%;
     width: 100%;
     padding: 3rem 2rem;
-    /*transform: translate(100%);  Note: Avoid thais to make more Responsive */
+    /*transform: translate(100%);  Note: Avoid this to make more Responsive */
   }  
   .hamburger {
     display: block;
   }
   input[type='checkbox']:checked ~ .navlist{
-    /*transform: translate(0%); Note: Avoid thais to make more Responsive */
+    /*transform: translate(0%); Note: Avoid this to make more Responsive */
     display: block;
     font-size: 1.5rem;
     padding: 10px 12px 20px 12px;
