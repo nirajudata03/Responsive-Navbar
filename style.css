@@ -42,10 +42,10 @@ header {
   list-style: none;
   align-items: center;
   gap: 3rem;
-  font-size: 1em;
+  font-size: 18px;
 }
 .logo {
-  font-size: 3rem;
+  font-size: 40px;
   font-weight: 700;
 }
 /* On Mobile Screen */
