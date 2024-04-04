@@ -1,1 +1,1 @@
-# Responsive-Navbar
+<p>“If you ever talk to a great programmer, you'll find they know their tools like an artist knows their paintbrushes.”</p>
